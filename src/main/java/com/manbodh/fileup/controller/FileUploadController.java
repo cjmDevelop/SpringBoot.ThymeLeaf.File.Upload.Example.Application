@@ -1,4 +1,4 @@
-package com.manbodh.fileup;
+package com.manbodh.fileup.controller;
 
 import com.manbodh.fileup.storage.StorageFileNotFoundException;
 import com.manbodh.fileup.storage.StorageService;
